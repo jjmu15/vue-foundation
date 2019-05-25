@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+// generic
+@import "reset";
+
+// tailwind
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// elements
+@import "elements/elements.scss";
+@import "components/components.scss";
